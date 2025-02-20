@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ##My Name is RAJA VIKRAMAN......
-## Nice to meet you, and welcome to my Git.
+
 
 <!--
 **KingVikraman/KingVikraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
