@@ -2,7 +2,21 @@
 
 **C_Programmer**
 
-Welcome to My Github profile! 
+Welcome to My Github profile!                                        
+                                     ,---._                  
+,-.----.       ,---,               .-- -.' \    ,---,        
+\    /  \     '  .' \              |    |   :  '  .' \       
+;   :    \   /  ;    '.            :    ;   | /  ;    '.     
+|   | .\ :  :  :       \           :        |:  :       \    
+.   : |: |  :  |   /\   \          |    :   ::  |   /\   \   
+|   |  \ :  |  :  ' ;.   :         :         |  :  ' ;.   :  
+|   : .  /  |  |  ;/  \   \        |    ;   ||  |  ;/  \   \ 
+;   | |  \  '  :  | \  \ ,'    ___ l         '  :  | \  \ ,' 
+|   | ;\  \ |  |  '  '--'    /    /\    J   :|  |  '  '--'   
+:   ' | \.' |  :  :         /  ../  `..-    ,|  :  :         
+:   : :-'   |  | ,'         \    \         ; |  | ,'         
+|   |.'     `--''            \    \      ,'  `--''           
+`---'                         "---....--'                  
 
 I'm a Highschool grad who has found a way to make myself into programming even without a coding backgroud i am still tyoing to hustle
 and achive great hights.
