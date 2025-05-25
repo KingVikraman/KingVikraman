@@ -24,6 +24,8 @@ My journey in programming has been a dynamic mix of challenges and breakthroughs
 
 ![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingVikraman&layout=compact&langs_count=8&hide_border=true)
 <br />
+<img src="https://raw.githubusercontent.com/KingVikraman/KingVikraman/output/snake.svg" alt="Snake animation" />
+
 <!--
 **KingVikraman/KingVikraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
