@@ -21,6 +21,30 @@ As a recent high school graduate with a Science (Biology) background, I made the
 
 My journey in programming has been a dynamic mix of challenges and breakthroughs, reinforcing my belief that resilience and persistence,rather than innate strength are the keys to growth. I am passionate about continuous learning, problem solving, and pushing my limits in this ever evolving field.
 
+<hr>
+<table>
+	<thead>
+		<tr>
+			<th align="center">
+				<a href="https://github.com/veloxity343?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;">
+				</a>
+			</th>
+			<th align="center">
+				<a href="https://github.com/veloxity343?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veloxity343&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="400">
+				</a>
+			</th>
+		</tr>
+	</thead>
+</table>
+<p align="center" dir="auto">
+	<img alt="veloxity343's visitors" src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" data-canonical-src="https://komarev.com/ghpvc/?username=veloxity343&amp;color=blue&amp;style=flat&amp;label=visitors" style="max-width: 100%;">
+	<img alt="veloxity343's followers" src="https://img.shields.io/github/followers/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/followers/veloxity343?color=blue" style="max-width: 100%;">
+	<img alt="veloxity343's stars" src="https://img.shields.io/github/stars/veloxity343?color=blue" data-canonical-src="https://img.shields.io/github/stars/veloxity343?color=blue" style="max-width: 100%;">
+</p>
+<hr>
+
 <img src="https://raw.githubusercontent.com/KingVikraman/KingVikraman/output/snake.svg" alt="Snake animation" />
 
 <!--
