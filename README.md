@@ -1,15 +1,4 @@
 # 👋 Hey, I'm Raja
-
-     ██▀███  ▄▄▄     ▄▄▄██▀▀▄▄▄                  ██▒   █▓
-    ▓██ ▒ ██▒████▄     ▒██ ▒████▄               ▓██░   █▒
-    ▓██ ░▄█ ▒██  ▀█▄   ░██ ▒██  ▀█▄              ▓██  █▒░
-    ▒██▀▀█▄ ░██▄▄▄▄█▓██▄██▓░██▄▄▄▄██              ▒██ █░░
-    ░██▓ ▒██▒▓█   ▓██▓███▒  ▓█   ▓██▒    ██▓       ▒▀█░  
-    ░ ▒▓ ░▒▓░▒▒   ▓▒█▒▓▒▒░  ▒▒   ▓▒█░    ▒▓▒       ░ ▐░  
-      ░▒ ░ ▒░ ▒   ▒▒ ▒ ░▒░   ▒   ▒▒ ░    ░▒        ░ ░░  
-      ░░   ░  ░   ▒  ░ ░ ░   ░   ▒       ░           ░░  
-       ░          ░  ░   ░       ░  ░     ░           ░  
-                                          ░          ░   
                                                                                                                                     
 **C_Programmer**
 
@@ -17,7 +6,7 @@
 ✨ Welcome to My Github profile! ✨ 
 
 
-	██▓▒░ ►▬ WELCOME ▬◄ ░▒▓██
+██▓▒░ ►▬ WELCOME ▬◄ ░▒▓██
 
                                               
 As a recent high school graduate with a Science (Biology) background, I made the bold decision to step out of my comfort zone and embrace the challenge of programming by joining 42, a unique project-based coding school. With no prior experience in coding, I immersed myself in learning C programming and have since been developing my skills through hands-on projects.
