@@ -2,7 +2,7 @@
                                                                                                                                     
 **C & C++ Programmer**
 
-██▓▒░ ►▬ WELCOME ▬◄ ░▒▓██
+█▓▒░ ►▬ WELCOME ▬◄ ░▒▓█
 
 ✨ My Github profile! ✨ 
 
