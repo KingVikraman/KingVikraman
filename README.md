@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Raja 👋</h1>
-<h3 align="center">Full-Stack Developer & Programmer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16865B,25:050816,50:083344,75:050816,100:16865B&height=220&section=header&text=Raja%20Vikraman&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack Developer%20%C2%B7%20%20Kuala Lumpur%20&descSize=19&descAlignY=57&descColor=D5E7EC" width="100%" />
 
 <p align="center">
 I build full-stack products based on problems that other Companies face and also for my intrest. My path here started as a Science Stream student, I switched into programming with zero prior coding background through 42, a project-based coding school, and I have been building projects hands on ever since.
@@ -7,44 +6,38 @@ I build full-stack products based on problems that other Companies face and also
 </p>
 
 <h3 align="center">🛠 Tech Stack</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,python,c,cpp,docker,git,bash&perline=7" alt="Tech stack" />
 </p>
 
-<hr>
 
-<table align="center">
-	<thead>
-		<tr>
-			<th align="center">
-				<a href="https://github.com/KingVikraman?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api?username=KingVikraman&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;">
-				</a>
-			</th>
-			<th align="center">
-				<a href="https://github.com/KingVikraman?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingVikraman&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="400">
-				</a>
-			</th>
-		</tr>
-	</thead>
-</table>
+## 📊 Stats
 
-<p align="center" dir="auto">
-	<img alt="KingVikraman's visitors" src="https://komarev.com/ghpvc/?username=KingVikraman&amp;color=blue&amp;style=flat&amp;label=visitors">
-	<img alt="KingVikraman's followers" src="https://img.shields.io/github/followers/KingVikraman?color=blue">
-	<img alt="KingVikraman's stars" src="https://img.shields.io/github/stars/KingVikraman?color=blue">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KingVikraman&theme=tokyonight" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingVikraman&theme=tokyonight" height="180" alt="Top languages" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KingVikraman&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+</p>
 
-<img src="https://raw.githubusercontent.com/KingVikraman/KingVikraman/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Graph
+
+<picture>
+  <source
+	media="(prefers-color-scheme: dark)"
+	srcset="https://raw.githubusercontent.com/KingVikraman/KingVikraman/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+	media="(prefers-color-scheme: light)"
+	srcset="https://raw.githubusercontent.com/KingVikraman/KingVikraman/output/github-contribution-grid-snake.svg"
+  />
+  <img
+	src="https://raw.githubusercontent.com/KingVikraman/KingVikraman/output/github-contribution-grid-snake-dark.svg"
+	alt="Snake eating my contributions"
+	width="100%"
+  />
+</picture>
+
