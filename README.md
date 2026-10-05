@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/KingVikraman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Student+%40+42+Kuala+Lumpur;Providing+Solutions;Codebase+Tinkerer;C%2FC%2B%2B+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=42+Kuala%20Lumpur+Core+Survivor;Providing+Solutions;Codebase+Tinkerer;C%2FC%2B%2B+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
