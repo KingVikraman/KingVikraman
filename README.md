@@ -1,6 +1,7 @@
 <!-- Animated Header/Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16865B,25:050816,50:083344,75:050816,100:16865B&height=220&section=header&text=Raja%20Vikraman&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack Developer%20%C2%B7%20Kuala Lumpur&descSize=19&descAlignY=57&descColor=D5E7EC" width="100%" />
 
+<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/KingVikraman">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Student+%40+42+Kuala+Lumpur;Providing+Solutions;Codebase+Tinkerer;C%2FC%2B%2B+Programmer" alt="Typing SVG" />
