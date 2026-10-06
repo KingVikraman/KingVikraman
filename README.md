@@ -1,10 +1,10 @@
 <!-- Animated Header/Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16865B,25:050816,50:083344,75:050816,100:16865B&height=220&section=header&text=Raja%20Vikraman&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Kuala%20Lumpur&descSize=19&descAlignY=57&descColor=D5E7EC" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2A970,25:050816,50:29251A,75:050816,100:C2A970&height=220&section=header&text=Raja%20Vikraman&fontSize=62&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Kuala%20Lumpur&descSize=19&descAlignY=57&descColor=D5E7EC" width="100%" />
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/KingVikraman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=42+Kuala%20Lumpur+Core+Survivor;Providing+Solutions;Codebase+Tinkerer;C%2FC%2B%2B+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=D4B878&center=true&vCenter=true&width=600&lines=42+Kuala%20Lumpur+Core+Survivor;Providing+Solutions;Codebase+Tinkerer;C%2FC%2B%2B+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -51,4 +51,4 @@ I build full-stack products based on problems that other companies face, as well
 </picture>
 
 <!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16865B,25:050816,50:083344,75:050816,100:16865B&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2A970,25:050816,50:29251A,75:050816,100:C2A970&height=120&section=footer" width="100%" />
