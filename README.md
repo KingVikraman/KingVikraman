@@ -50,5 +50,11 @@ I build full-stack products based on problems that other companies face, as well
   />
 </picture>
 
+## 🐟 My Koi
+
+<p align="center">
+	<img src="koi/koi.gif" width="256" alt="My swimming koi" />
+</p>
+
 <!-- Animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2A970,25:050816,50:29251A,75:050816,100:C2A970&height=120&section=footer" width="100%" />
